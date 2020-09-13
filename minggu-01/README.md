@@ -1,2 +1,2 @@
-#minggu-01
-##SCM: Git dan GitHub
+# minggu-01
+## SCM: Git dan GitHub
