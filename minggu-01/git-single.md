@@ -143,6 +143,7 @@ Untuk kasus-kasus tersebut, lakukan perubahan di komputer lokal, setelah itu pus
 ![02](img/repo-7.png)
 
 Membuat pull request agar bisa di-merge
+
 ![03](img/repo-8.png)
 
 Setelah itu, Confirm Merge, branch yang kita kirimkan tadi sudah dimasukkan ke branch master. Setelah itu, merge di komputer lokal:
