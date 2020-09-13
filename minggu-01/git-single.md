@@ -161,7 +161,7 @@ Setelah itu, Confirm Merge, branch yang kita kirimkan tadi sudah dimasukkan ke b
 ### Undo Commit Terakhir
 
 ![01](img/repo-13.png)
-![02](img/repo-14.png)
+![01](img/repo-14.png)
 
 Contoh di atas adalah contoh untuk mengubah README.md dengan beberapa commit. Setelh itu, kita akan mengembalikan ke posisi terakhir sebelum commit terakhir.
 
