@@ -163,6 +163,7 @@ Setelah itu, Confirm Merge, branch yang kita kirimkan tadi sudah dimasukkan ke b
 ![02](img/repo-14.png)
 
 Contoh di atas adalah contoh untuk mengubah README.md dengan beberapa commit. Setelh itu, kita akan mengembalikan ke posisi terakhir sebelum commit terakhir.
+
 ![03](img/repo-15.png)
 
 Jika commit sudah dilakukan, tetapi belum di-push ke repo GitHub (masih berada di lokal), cara membatalkannya:
@@ -170,9 +171,11 @@ Jika commit sudah dilakukan, tetapi belum di-push ke repo GitHub (masih berada d
 ![05](img/repo-17.png)
 
 Untuk kembali ke perubahan pada saat yang sudah lama, yang perlu dilakukan adalah melakukan git revert <posisi> kemudian mengedit secara manual kemudian push ke repo.
+
 ![06](img/repo-18.png)
 
 Edit file tersebut, setelah itu simpan.
+
 ![07](img/repo-19.png)
 
 Setelah itu, lanjutkan proses revert. Saat git revert --continue isikan pesan revert.
