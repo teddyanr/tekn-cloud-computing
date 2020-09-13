@@ -125,7 +125,6 @@ Perubahan isi bisa terjadi karena satu atau kombinasi beberapa hal berikut:
 4.	Menghapus direktori
 
 Untuk kasus-kasus tersebut, lakukan perubahan di komputer lokal, setelah itu push ke repo.
-
 ![01](img/repo-5.png)
 
 ### Mengubah Isi dengan Branching and Merging
@@ -161,25 +160,20 @@ Setelah itu, Confirm Merge, branch yang kita kirimkan tadi sudah dimasukkan ke b
 ### Undo Commit Terakhir
 
 ![01](img/repo-13.png)
-![01](img/repo-14.png)
+![02](img/repo-14.png)
 
 Contoh di atas adalah contoh untuk mengubah README.md dengan beberapa commit. Setelh itu, kita akan mengembalikan ke posisi terakhir sebelum commit terakhir.
-
-![01](img/repo-15.png)
+![03](img/repo-15.png)
 
 Jika commit sudah dilakukan, tetapi belum di-push ke repo GitHub (masih berada di lokal), cara membatalkannya:
-
-![01](img/repo-16.png)
-![02](img/repo-17.png)
+![04](img/repo-16.png)
+![05](img/repo-17.png)
 
 Untuk kembali ke perubahan pada saat yang sudah lama, yang perlu dilakukan adalah melakukan git revert <posisi> kemudian mengedit secara manual kemudian push ke repo.
-
-![03](img/repo-18.png)
+![06](img/repo-18.png)
 
 Edit file tersebut, setelah itu simpan.
-
-![04](img/repo-19.png)
+![07](img/repo-19.png)
 
 Setelah itu, lanjutkan proses revert. Saat git revert --continue isikan pesan revert.
-
-![05](img/repo-20.png)
+![08](img/repo-20.png)
