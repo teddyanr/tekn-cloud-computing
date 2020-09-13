@@ -81,3 +81,13 @@
 20. Cek apakah git sudah terinstall di computer dengan membuka CMD kemudian mengetikkan git –version.
 
 ![20](img/instalasi-20.png)
+
+
+# Konfigurasi Git
+
+Ada 2 hal yang perlu dikonfigurasi yaitu username dan email. Konfig harus disesuaikan dengan nama serta email yang digunakan untuk mendaftar di GitHub. Untuk melihat konfigurasi yang sudah ada. Gunakan perintah berikut:
+
+![01](img/config-git.png)
+
+Langkah ini cukup dilakukan sekali saja, kecuali jika ingin melakukan perubahan nama dan email.
+
