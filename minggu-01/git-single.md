@@ -4,7 +4,7 @@
 
 1. Setelah download GIT, klik install kemudian akan muncul lisesnsi. Klick Next.
 
-![01](img/instalasi-1.png){:height="36px" width="36px"}.
+![01](img/instalasi-1.png)
 
 2. Kemudian pilih lokasi instalasi, setelah memilih klik Next.
 
