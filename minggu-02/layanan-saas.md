@@ -15,10 +15,10 @@ juga terdapat sistem untuk menyimpan ydesan yang telah dibuat sehingga pengguna 
 Jika ingin menggunakan aplikasi Canva pengguna bisa mengunduhnya di [halaman dowbload Canva](https://www.canva.com/id_id/unduh/windows/).
 
 <div align="center">
-<img src="" width="600px">
+<img src="img/canva-01.png" width="600px">
 </div>
 
-Atau pengguna bisa mengaksesnya secara langsung di browser dengan mengakses [halaman Canva] (https://www.canva.com/).
+Atau pengguna bisa mengaksesnya secara langsung di browser dengan mengakses [halaman Canva](https://www.canva.com/).
 
 ![01](img/colab-1.png)
 
@@ -27,12 +27,12 @@ Terdapat juga aplikasi Canva yang bisa digunakan di platform mobile android.
 
 ## Edraw MAX
 
-Edraw Max merupakan aplikasi yang dibuat untuk digunakan sebagai alat bantu perancangan, seperti Database, Flowchart, Jaringan, Mindmap dan lain sebagainya. Meskipun ukuran software ini tidak terlalu besar, namun fungsi atau tools yang disajikan sangat lengkap. Selain itu dari segi interface juga tidak kalah dengan Visio yang memang nyaman untuk di lihat. Tidak hanya oleh kalangan mahasiswa, aplikasi ini juga dapat digunakan oleh perancang-perancang professional. Aplikasi ini dapat di download dari situs resminya [Edraw Max] (https://www.edrawsoft.com/edraw-max/).
+Edraw Max merupakan aplikasi yang dibuat untuk digunakan sebagai alat bantu perancangan, seperti Database, Flowchart, Jaringan, Mindmap dan lain sebagainya. Meskipun ukuran software ini tidak terlalu besar, namun fungsi atau tools yang disajikan sangat lengkap. Selain itu dari segi interface juga tidak kalah dengan Visio yang memang nyaman untuk di lihat. Tidak hanya oleh kalangan mahasiswa, aplikasi ini juga dapat digunakan oleh perancang-perancang professional. Aplikasi ini dapat di download dari situs resminya [Edraw Max](https://www.edrawsoft.com/edraw-max/).
 
 ![01](img/colab-1.png)
 
-Atau pengguna juga bisa menggunakan Edraw Max secara online dengan masuk ke [halaman Edraw MAX online] (https://www.edrawmax.com/online/).
+Atau pengguna juga bisa menggunakan Edraw Max secara online dengan masuk ke [halaman Edraw MAX online](https://www.edrawmax.com/online/).
 
 ![01](img/colab-1.png)
 
-Layanan SaaS lainnya yang memiliki fungsionalitas yang sama antara lain ada [Gravit Designer] (https://www.designer.io/en/), [Vectr] (https://vectr.com/), [Snappa] (https://snappa.com/), dll.
+Layanan SaaS lainnya yang memiliki fungsionalitas yang sama antara lain ada [Gravit Designer](https://www.designer.io/en/), [Vectr](https://vectr.com/), [Snappa](https://snappa.com/), dll.
