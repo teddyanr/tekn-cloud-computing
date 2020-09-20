@@ -73,3 +73,15 @@ Dikenal sebagai teknologi Message Queuing (MSMQ), ini memungkinkan aplikasi web 
 4.	Content delivery network
 
 Content delivery network (CDN) pada dasarnya adalah sistem server terdistribusi yang memungkinkan Anda menyajikan konten kepada pengguna aplikasi Anda dengan kinerja tinggi dan ketersediaan tinggi.
+
+
+**Sumber:**
+
+https://www.quora.com/What-is-the-difference-between-IaaS-SaaS-and-Paas
+
+https://hackernoon.com/saas-software-as-a-service-platform-architecture-757a432270f5
+
+https://www.devteam.space/blog/saas-software-as-a-service-platform-architecture/
+
+https://usersnap.com/blog/cloud-based-saas-architecture-fundamentals/
+
