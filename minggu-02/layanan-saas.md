@@ -33,4 +33,6 @@ Atau pengguna juga bisa menggunakan Edraw Max secara online dengan masuk ke [hal
 
 <div align="center"><img src="img/Edraw-02.png" width="600px"></div>
 
+
+
 Layanan SaaS lainnya yang memiliki fungsionalitas yang sama antara lain ada [Gravit Designer](https://www.designer.io/en/), [Vectr](https://vectr.com/), [Snappa](https://snappa.com/), dll.
