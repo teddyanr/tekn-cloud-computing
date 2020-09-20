@@ -5,4 +5,4 @@
 
 [Git-kolaborasi](git-kolaborasi.md)
 
-[Rangkuman Cloud Computing](angkuman-cloud-computing.md)
+[Rangkuman Cloud Computing](rangkuman-cloud-computing.md)
