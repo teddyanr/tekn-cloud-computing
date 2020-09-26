@@ -28,7 +28,7 @@
 
 <div align="center"><img src="img/php-08.png" width="500px"></div>
 
-<div align="center"><img src="img/php-09.png" width="800px"></div>
+<div align="center"><img src="img/php-09.png" width="500px"></div>
  
 6.	Melihat logs
 
@@ -66,7 +66,7 @@
 
 3.	Lakukan perubahan di file index.php
 
-<div align="center"><img src="img/php-16.png" width="300px"></div>
+<div align="center"><img src="img/php-16.png" width="500px"></div>
  
 4.	Tambahkan perubahan ke git repository
 
@@ -99,7 +99,7 @@
 ## Define config vars
 1.	Modifikasi file index.php
 
-<div align="center"><img src="img/php-24.png" width="300px"></div>
+<div align="center"><img src="img/php-24.png" width="500px"></div>
  
 2.	Setting config far di Heroku
 
