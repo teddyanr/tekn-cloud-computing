@@ -141,6 +141,6 @@
  
 <div align="center"><img src="img/py-25.png" width="500px"></div>
 
-
-
+<p>
+<p>
 ***Sumber : [Getting Started on Heroku with Python](https://devcenter.heroku.com/articles/getting-started-with-python?singlepage=true)***
