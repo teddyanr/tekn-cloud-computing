@@ -133,7 +133,7 @@
 
 <div align="center"><img src="img/py-23.png" width="300px"></div>
  
-2.	Buka Kembali [http://localhost:5000/] (http://localhost:5000/) setelah melakukan perubahan
+2.	Buka Kembali [http://localhost:5000/](http://localhost:5000/) setelah melakukan perubahan
 
 <div align="center"><img src="img/py-24.png" width="200px"></div>
 
@@ -141,3 +141,4 @@
  
 <div align="center"><img src="img/py-25.png" width="500px"></div>
 
+***Sumber : [Getting Started on Heroku with Python](https://devcenter.heroku.com/articles/getting-started-with-python?singlepage=true)***
