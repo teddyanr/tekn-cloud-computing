@@ -103,7 +103,7 @@
 
 4.	Menyimpan perubahan ke repository di git
 
-<div align="center"><img src="img/py-18.png" width="300px"></div>
+<div align="center"><img src="img/py-18.png" width="500px"></div>
 
 <div align="center"><img src="img/py-19.png" width="500px"></div>
 <div align="center"><img src="img/py-20.png" width="500px"></div>
