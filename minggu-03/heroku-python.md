@@ -45,7 +45,7 @@
 
 8.	Melihat logs
 
-<div align="center"><img src="img/py-07.png" width="600px"></div>
+<div align="center"><img src="img/py-07.png" width="800px"></div>
 
 
 ### Mendifine procfile
