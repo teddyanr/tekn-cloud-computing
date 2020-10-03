@@ -24,7 +24,7 @@
 
 <div align="center"><img src="img/ds-05.png" width="500px"></div>
 
-8. Lakukan Clone dari repository DevStack [https://opendev.org/openstack/devstack](https://opendev.org/openstack/devstack).
+8. Lakukan Clone dari [repository DevStack](https://opendev.org/openstack/devstack).
 
 <div align="center"><img src="img/ds-06.png" width="500px"></div>
 
@@ -43,6 +43,6 @@
 
 **Sumber**
 <br>
-**[https://docs.openstack.org/devstack/latest/#quick-start](https://docs.openstack.org/devstack/latest/#quick-start)**
+**https://docs.openstack.org/devstack/latest/#quick-start**
 <br>
-**[https://computingforgeeks.com/openstack-deployment-on-ubuntu-with-devstack/](https://computingforgeeks.com/openstack-deployment-on-ubuntu-with-devstack/)**
+**https://computingforgeeks.com/openstack-deployment-on-ubuntu-with-devstack**
