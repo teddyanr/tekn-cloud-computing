@@ -36,10 +36,13 @@
 
 <div align="center"><img src="img/ds-08.png" width="500px"></div>
 
-11. Installasi DevStack telah selesai
+11. Installasi DevStack telah selesai.
 
 <br>
 <br>
 
-***Sumber :  [https://docs.openstack.org/devstack/latest/#quick-start](https://docs.openstack.org/devstack/latest/#quick-start)***
-***[https://computingforgeeks.com/openstack-deployment-on-ubuntu-with-devstack/](https://computingforgeeks.com/openstack-deployment-on-ubuntu-with-devstack/)***
+**Sumber**
+<br>
+**[https://docs.openstack.org/devstack/latest/#quick-start](https://docs.openstack.org/devstack/latest/#quick-start)**
+<br>
+**[https://computingforgeeks.com/openstack-deployment-on-ubuntu-with-devstack/](https://computingforgeeks.com/openstack-deployment-on-ubuntu-with-devstack/)**
