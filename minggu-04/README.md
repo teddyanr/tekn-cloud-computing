@@ -3,4 +3,4 @@
 
 [Installasi DevStack](latihan.md)
 
-[GInstallasi Mininet](tugas.md)
+[Installasi Mininet](tugas.md)
