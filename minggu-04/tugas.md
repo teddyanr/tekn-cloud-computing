@@ -12,11 +12,11 @@
 
 4. Masuk ke direktori mininet.
 
-<div align="center"><img src="img/mn-02.png" width="200px"></div>
+<div align="center"><img src="img/mn-02.png" width="100px"></div>
 
 5. Melihat tag dari repository Mininet.
 
-<div align="center"><img src="img/mn-03.png" width="200px"></div>
+<div align="center"><img src="img/mn-03.png" width="100px"></div>
 
 6. Berpindah branch.
 
@@ -24,7 +24,7 @@
 
 7. Lakukan installasi Mininet.
 
-<div align="center"><img src="img/mn-04.png" width="500px"></div>
+<div align="center"><img src="img/mn-05.png" width="500px"></div>
 
 8. Installasi Mininet telah selesai.
 
