@@ -14,11 +14,11 @@
 
 5. Mengaktifkan hak istimewa pada user stack tanpa adanya kata sandi yang digunakan.
 
-<div align="center"><img src="img/ds-03png" width="500px"></div>
+<div align="center"><img src="img/ds-03.png" width="500px"></div>
 
 6. Pindah ke user stack.
 
-<div align="center"><img src="img/ds-04.png" width="800px"></div>
+<div align="center"><img src="img/ds-04.png" width="500px"></div>
 
 7. Install GIT.
 
@@ -41,6 +41,5 @@
 <br>
 <br>
 
-***Sumber : ***
-***[https://docs.openstack.org/devstack/latest/#quick-start](https://docs.openstack.org/devstack/latest/#quick-start)***
+***Sumber :  [https://docs.openstack.org/devstack/latest/#quick-start](https://docs.openstack.org/devstack/latest/#quick-start)***
 ***[https://computingforgeeks.com/openstack-deployment-on-ubuntu-with-devstack/](https://computingforgeeks.com/openstack-deployment-on-ubuntu-with-devstack/)***
