@@ -21,7 +21,7 @@
 
 <div align="center"><img src="img/ofbiz-06.png" width="500px"></div>
 
-<div align="center"><img src="img/ofbiz-06.png" width="500px"></div>
+<div align="center"><img src="img/ofbiz-07.png" width="500px"></div>
 
 <br>
 <br>
