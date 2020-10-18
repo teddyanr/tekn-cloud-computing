@@ -22,7 +22,7 @@
 
 <div align="center"><img src="img/MySQL-02.png" width="300px"></div>
 
-## Install MySQL
+## Install MongoDB
 
 1.	Download MongoDB Installer
 2.	Install MongoDB sesuai gambar dibawah, klik next untuk setiap stepnya. Tunggu hingga proses installasi selesai lalau klik finish.
