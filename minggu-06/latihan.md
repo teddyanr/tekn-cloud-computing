@@ -54,3 +54,17 @@ sourcecode : [mongo.go](code/mongo.go)
 5.	Hasil membaca data dari MongoDB menggunakan program
 
 <div align="center"><img src="img/p_mongo.png" width="500px"></div>
+
+## RESTFul API untuk membaca data di MySQL dan MongoDB
+
+1.	Pastikan driver gin sudah terinstall
+
+<div align="center"><img src="img/gin.png" width="300px"></div>
+
+2.	Berikut untuk program mengakses data dari mysql menggunakan gin
+
+[mysql/main.go](code/mysql/main.go)
+
+3.	Hasil RESTFul dari program (MySQL)
+
+<div align="center"><img src="img/api_mysql.png" width="500px"></div>
