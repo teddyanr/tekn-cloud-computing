@@ -127,9 +127,9 @@ func main() {
 	})
 
 	// Delete resources
-	router.DELETE("/person", func(c *gin.Context) {
+	router.DELETE("/mahasiswa", func(c *gin.Context) {
 		nim := c.Query("nim")
-		stmt, err := db.Prepare("delete from person where nim= ?;")
+		stmt, err := db.Prepare("delete from mahasiswa where nim= ?;")
 		if err != nil {
 			fmt.Print(err.Error())
 		}
