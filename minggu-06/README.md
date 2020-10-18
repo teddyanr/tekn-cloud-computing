@@ -3,4 +3,4 @@
 
 [Installasi Go, MySQL, dan MongoDB](latihan.md)
 
-[Demo di OFBiz](tugas.md)
+[GraphQL](tugas.md)
