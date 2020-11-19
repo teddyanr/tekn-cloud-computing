@@ -3,4 +3,4 @@
 
 [Getting Started - Docker Compose](latihan.md)
 
-[Diagram Keterkaitan](tugas.md)
+[Diagram Keterkaitan](tugas.md) 
