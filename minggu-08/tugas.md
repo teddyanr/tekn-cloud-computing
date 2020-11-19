@@ -1,4 +1,6 @@
-# Diagram Keterkaitan antara Docker image, container, client, compose dan swarm.
+# Diagram Keterkaitan 
+
+## Docker image, container, client, compose dan swarm.
 
 <div align="center"><img src="img/dia-doc.png" width="500px"></div>
 
