@@ -34,9 +34,10 @@ Pada script diatas tersebut akan berguna untuk mengeksekusi beberapa perintah ya
 
 5.	Dan kemudian untuk selanjutnya membuat file yml, dengan nama docker-compose. File ini akan berguna sebagai wadah untuk merujuk pada port 5000 yang nantinya dapat diakses. Seperti pada gambar dibawah ini :
 
-<div align="center"><img src="img/docker-05.png" width="300px"></div>
+<div align="center"><img src="img/docker-05.png" width="500px"></div>
 
 <dd>
+
 ```markdown 
 Script diatas merupakan script uang akan menjadi layanan dengan menggunakan port default untuk server web Flask, 5000.
 ```
@@ -44,7 +45,7 @@ Script diatas merupakan script uang akan menjadi layanan dengan menggunakan port
 
 6.	Melihat file yang ada di direktori composetest
 
-<div align="center"><img src="img/docker-06.png" width="300px"></div>
+<div align="center"><img src="img/docker-06.png" width="500px"></div>
 
 7.	Kemudian selanjutnya melakukan running untuk project/direktori yang dibuat tadi dengan menggunakan docker compose, yang perintahnya yaitu docker-compose up, seperti pada gambar dibawah ini :
 
