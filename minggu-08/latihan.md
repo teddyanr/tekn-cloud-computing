@@ -54,23 +54,26 @@ Script diatas merupakan script uang akan menjadi layanan dengan menggunakan port
 <div align="center"><img src="img/docker-09.png" width="500px"></div>
 
 <dd>
+
 ```markdown 
 Ketika perintah docker-compose up dijalankan maka otomatis sever akan runnig, dimana setiap proses running dilakukan maka akan otomatis merujuk pada image docker dan kemudian merequest ke server redis.
 ```
+</dd>
 
 8.	Jika di buka pada browser dengan mengakses server host yakni 192.168.99.100:5000. Host ini fungsinya sama seperti penggunaan pada docker dekstop yakni localhost:5000, karena disini saya menggunakan docker tollbox, maka host yang digunakan seperti diatas tersebut.
 
-<div align="center"><img src="img/docker-10.png" width="300px"></div>
+<div align="center"><img src="img/docker-10.png" width="500px"></div>
 
 9.	Kemudian apabila melakukan refresh pada browser maka secara otomatis akan di count dimana setiap kali request dilakukan maka nilainya akan bertambah, artinya akan menghitung jumlah riquest time dari client. Seperti pada gambar dibawah ini :
 
-<div align="center"><img src="img/docker-11.png" width="300px"></div>
+<div align="center"><img src="img/docker-11.png" width="500px"></div>
 
 10.	Selanjutnya mengeksekusi perintah untuk melihat daftar image yang ada, dengan meggunakan perintah docker image ls, seperti pada gambar dibawah ini :
 
 <div align="center"><img src="img/docker-12.png" width="500px"></div>
 
 <dd>
+
 ```markdown 
 Dimana dari gambar diatas repo/image yang digunakan sekarang yaitu python dan redis.
 ```
@@ -81,6 +84,7 @@ Dimana dari gambar diatas repo/image yang digunakan sekarang yaitu python dan re
 <div align="center"><img src="img/docker-13.png" width="500px"></div>
 
 <dd>
+
 ```markdown 
 Dimana perubahan dengan menambahkan dua variabel yaitu volumes dan environtment. 
 ```
@@ -90,15 +94,16 @@ Dimana perubahan dengan menambahkan dua variabel yaitu volumes dan environtment.
 
 <div align="center"><img src="img/docker-14.png" width="500px"></div>
 
-	<dd>
-	```markdown 
-	Dimana hasil update pada file yml akan ditampilkan ketika proses runnig ulang ke host seperti pada gambar diatas tersebut. 
-	```
-	</dd>
+<dd>
+
+```markdown 
+Dimana hasil update pada file yml akan ditampilkan ketika proses runnig ulang ke host seperti pada gambar diatas tersebut. 
+```
+</dd>
 
 13.	Saat dibuka di browser.
 
-<div align="center"><img src="img/docker-15.png" width="300px"></div>
+<div align="center"><img src="img/docker-15.png" width="500px"></div>
 
 14.	Kemudian melakukan update pada file app.py dengan merubah pesan seperti pada gambar dibawah ini :
 
@@ -106,30 +111,29 @@ Dimana perubahan dengan menambahkan dua variabel yaitu volumes dan environtment.
 
 15.	Perubahan saat dibuka di browser.
 
-<div align="center"><img src="img/docker-17.png" width="300px"></div>
+<div align="center"><img src="img/docker-17.png" width="500px"></div>
 
 16.	Dan selajutnya melakukan eksperimen pada beberapa perintah docker yang ada. Dimana beberapa perintah ini akan melihat container yang sedang running pada backgroung, melakukan stop running container, melihat running pada server web dan volume container, seperti pada gambar dibawah ini :
 
 <div align="center"><img src="img/docker-18.png" width="500px"></div>
 <div align="center"><img src="img/docker-19.png" width="500px"></div>
 
-    ```
-	//Menjalankan aplikasi pada latar belakang
-    $ docker-compose up -d
+```
+//Menjalankan aplikasi pada latar belakang
+$ docker-compose up -d
 
-    //Melihat aplikasi yang sedang berjalan
-    $ docker-compose ps
+//Melihat aplikasi yang sedang berjalan
+$ docker-compose ps
 	
-    //Menjalankan dan melihat variabel yang tersedia
-    $ docker-compose run web env
+//Menjalankan dan melihat variabel yang tersedia
+$ docker-compose run web env
 
-    //Menghentikan aplikasi
-    $ docker-compose stop
+//Menghentikan aplikasi
+$ docker-compose stop
 
-    //Menghapus containers
-    $ docker-compose down --volumes
-    ```
-
+//Menghapus containers
+$ docker-compose down --volumes
+```
 
 
 <br>
