@@ -5,13 +5,13 @@
 
 <div align="center"><img src="img/docker-01.png" width="500px"></div>
 
-    ```
-    //Membuat folder baru dengan nama composetest
-    $ mkdir composetest
+```    
+//Membuat folder baru dengan nama composetest
+$ mkdir composetest
 
-    //Berpindah ke folder composetest
-    $ cd composetest/
-    ```
+//Berpindah ke folder composetest
+$ cd composetest/
+```    
 
 2.	Selanjutnya membuat file baru pada project dengan nama app.py file python ini akan menghubungkan ke jaringan redis yang nantinya dapat diakses. Dengan menambahkan script seperti pada gambar dibawah ini :
 
