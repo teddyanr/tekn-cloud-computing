@@ -134,7 +134,16 @@ $ docker-compose stop
 //Menghapus containers
 $ docker-compose down --volumes
 ```
+---
 
+<dd>
+
+Lihat Script
+
+| File app.py  | Dockefile | File docker-compose.yml| File requirements.txt|
+|---|---|---|---|
+|[app.py](/minggu-08/app.py)   | [DockerFile](/minggu-08/Dockerfile)  | [docker-compose.yml](/minggu-08/docker-compose.yml) | [requirements.txt](/minggu-08/requirements.txt) |
+</dd>
 
 <br>
 <br>
