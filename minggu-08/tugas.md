@@ -2,6 +2,7 @@
 
 ## Docker image, container, client, compose dan swarm.
 
+---
 <div align="center"><img src="img/dia-doc.jpg" width="500px"></div>
 
 <br>
