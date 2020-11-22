@@ -143,7 +143,7 @@ Lihat Script
 | File app.py  | Dockefile | File docker-compose.yml| File requirements.txt|
 |---|---|---|---|
 |[app.py](/minggu-08/code/app.py)   | [DockerFile](/minggu-08/code/Dockerfile)  | [docker-compose.yml](/minggu-08/code/docker-compose.yml) | [requirements.txt](/minggu-08/code/requirements.txt) |
-</dd>
+</dd> 
 
 <br>
 <br>
