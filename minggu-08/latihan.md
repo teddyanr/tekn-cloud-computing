@@ -7,4 +7,4 @@
 
 **Sumber**
 <br>
-**https://docs.docker.com/get-started/**
+**https://docs.docker.com/compose/gettingstarted/**
