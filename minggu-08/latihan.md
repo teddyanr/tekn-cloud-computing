@@ -19,7 +19,7 @@ $ cd composetest/
 
 3.	Kemudian membuat file txt dengan nama requirements dan mengisihkan script pada file tersebut, seperti dibawah ini :
 
-<div align="center"><img src="img/docker-03.png" width="300px"></div>
+<div align="center"><img src="img/docker-03.png" width="200px"></div>
 
 4.	Kemudian membuat file baru dengan nama DockerFile dan kemudian mengisihkan script seperti dibawah ini :
 
