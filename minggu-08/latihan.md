@@ -23,9 +23,10 @@ $ cd composetest/
 
 4.	Kemudian membuat file baru dengan nama DockerFile dan kemudian mengisihkan script seperti dibawah ini :
 
-<div align="center"><img src="img/docker-04.png" width="300px"></div>
+<div align="center"><img src="img/docker-04.png" width="500px"></div>
 
 <dd>
+
 ```markdown 
 Pada script diatas tersebut akan berguna untuk mengeksekusi beberapa perintah yang berada pada beberapa file sebelumnya.
 ```
