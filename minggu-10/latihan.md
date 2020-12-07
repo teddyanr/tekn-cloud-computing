@@ -76,7 +76,7 @@ Gambar diatas juga sekaligus melakukan penginstalan program ping.
 
 <div align="center"><img src="img/do-17.png" width="500px"></div>
 
-14. Kemudian memulai kontainer baru dan sekaligus menjalankannya dimana kontainer ini bernama official NGINX. Dimana image ini berjalan pada web server pada port 80. Untuk perintah dan hasilnya seperti pada gambar dibawah ini :
+14. Kemudian memulai container baru dan sekaligus menjalankannya dimana container ini bernama official NGINX. Dimana image ini berjalan pada web server pada port 80. Untuk perintah dan hasilnya seperti pada gambar dibawah ini :
 
 <div align="center"><img src="img/do-18.png" width="500px"></div>
 
