@@ -185,8 +185,8 @@ Sehingga hasilnya ketika ditampilkan pada browser, seperti pada gambar dibawah i
 
 5. Kemudian selanjutnya mengeksekusi container ini.
 
-<div align="center"><img src="img/acmo-38_a.png" width="500px"></div>
-<div align="center"><img src="img/acmo-38_b.png" width="500px"></div>
+<div align="center"><img src="img/acmo-38_a.png" width="700px"></div>
+<div align="center"><img src="img/acmo-38_b.png" width="700px"></div>
 
 6. Kemudian selanjutnya harus dapat mengakses API (menggunakan nomor port yang diperbarui):
 
