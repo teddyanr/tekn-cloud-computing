@@ -36,6 +36,8 @@
 4. Kemudian setelah membuat docker image bernama linkextractor: step1 selanjutnya kita mengecek dengan melihat daftar/ist dari image docker yang sudah ada. Kemudian melakukan ekstrak docker image kita dengan mendapat URL.
 
 <div align="center"><img src="img/acmo-07_a.png" width="500px"></div>
+
+Dan ini merupakan output apabila kita mengakses alamat URL tersebut.
 <div align="center"><img src="img/acmo-07_b.png" width="500px"></div>
 
 5. Selanjutnya melakukan percobaan pada halaman web untuk melihat lebih banyak tautannya.
