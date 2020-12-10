@@ -30,8 +30,8 @@
 
 3. Membangun docker image. Dimana dengan menjalankan perintah seperti dibawah ini, dan sekaligus manghasilkan outputnya.
 
-<div align="center"><img src="img/acmo-06_a.png" width="700px"></div>
-<div align="center"><img src="img/acmo-06_b.png" width="700px"></div>
+<div align="center"><img src="img/acmo-06_a.png" width="900px"></div>
+<div align="center"><img src="img/acmo-06_b.png" width="900px"></div>
 
 4. Kemudian setelah membuat docker image bernama linkextractor: step1 selanjutnya kita mengecek dengan melihat daftar/ist dari image docker yang sudah ada. Kemudian melakukan ekstrak docker image kita dengan mendapat URL.
 
@@ -42,7 +42,7 @@ Dan ini merupakan output apabila kita mengakses alamat URL tersebut.
 
 5. Selanjutnya melakukan percobaan pada halaman web untuk melihat lebih banyak tautannya.
 
-<div align="center"><img src="img/acmo-08.png" width="700px"></div>
+<div align="center"><img src="img/acmo-08.png" width="900px"></div>
 
 
 ## Link Extractor Module with Full URI and Anchor Text
@@ -65,11 +65,11 @@ Dan ini merupakan output apabila kita mengakses alamat URL tersebut.
 
 5. Kemudian menjalankan image docker tersebut dan menghasilkan keluaran seperti dibawah ini :
 
-<div align="center"><img src="img/acmo-13.png" width="700px"></div>
+<div align="center"><img src="img/acmo-13.png" width="900px"></div>
 
 6. Kemudian menjalankan image docker step1 yang sebelumnya dan menghasilkan keluaran yang masih sama seperti dibawah ini :
 
-<div align="center"><img src="img/acmo-14.png" width="700px"></div>
+<div align="center"><img src="img/acmo-14.png" width="900px"></div>
 
 
 ## Link Extractor API Service
@@ -88,12 +88,12 @@ Dan ini merupakan output apabila kita mengakses alamat URL tersebut.
 
 4. Kemudian update image docker step3 ini dengan beberapa langkah perubahan, seperti dibawah ini.
 
-<div align="center"><img src="img/acmo-18_a.png" width="700px"></div>
-<div align="center"><img src="img/acmo-18_b.png" width="700px"></div>
+<div align="center"><img src="img/acmo-18_a.png" width="900px"></div>
+<div align="center"><img src="img/acmo-18_b.png" width="900px"></div>
 
 5. Selanjutnya menjalankan container dalam mode (-d flag) sehingga terminal dapat tersedia untuk perintah yang lain saat container masih berjalan. Perhatikan juga bahwa disitu terdapat port 5000 dari container dengan host 5000 (menggunakan perintah -p 5000: 5000) agar dapat diakses dari host. Dan juga memberikan nama (--name = linkextractor) ke container untuk lebih mudah melihat log atau menghapus container. Serta melihat list image container yagg baru dibuat tersebut.
 
-<div align="center"><img src="img/acmo-19.png" width="700px"></div>
+<div align="center"><img src="img/acmo-19.png" width="900px"></div>
 
 6. Membuat permintaan HTTP dalam bentuk /api /url untuk mengakses server ini dan mengambil respons berisi link yang diekstrak.
 
@@ -116,12 +116,12 @@ Dan ini merupakan output apabila kita mengakses alamat URL tersebut.
 
 3. Membuat mode terpisah untuk container.
 
-<div align="center"><img src="img/acmo-24_a.png" width="700px"></div>
-<div align="center"><img src="img/acmo-24_b.png" width="700px"></div>
+<div align="center"><img src="img/acmo-24_a.png" width="900px"></div>
+<div align="center"><img src="img/acmo-24_b.png" width="900px"></div>
 
 4. Memeriksa daftar container yang sedang berjalan serta memastikan bahwa kedua container tersebut benar berjalan. Dan kemudian mengkases layanan API.
 
-<div align="center"><img src="img/acmo-25_a.png" width="700px"></div>
+<div align="center"><img src="img/acmo-25_a.png" width="900px"></div>
 
 Sehingga ketika megkasesnya pada URL, maka hasilnya seperti pada gambar dibawah ini :
 
@@ -149,8 +149,8 @@ Sehingga ketika megkasesnya pada URL, maka hasilnya seperti pada gambar dibawah 
 
 10. Selanjutnya melakukan eksekusi container ini, untuk bisa di buka pada browser.
 
-<div align="center"><img src="img/acmo-31_a.png" width="700px"></div>
-<div align="center"><img src="img/acmo-31_b.png" width="700px"></div>
+<div align="center"><img src="img/acmo-31_a.png" width="900px"></div>
+<div align="center"><img src="img/acmo-31_b.png" width="900px"></div>
 
 Sehingga hasilnya ketika ditampilkan pada browser, seperti pada gambar dibawah ini :
 
